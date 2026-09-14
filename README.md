@@ -9,6 +9,9 @@ My goals are to land a job as an intern or junior web developer. In addition to 
 I am currently working on a certificate in Software Development and a Bachelor's Degree in Software Development.
 
 Technologies and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40" />
+</div>
 HTML
 JavaScript
 TypeScript
