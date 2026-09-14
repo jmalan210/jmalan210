@@ -1,7 +1,7 @@
 Jennifer Malan
 
 Hello GitHub! 
-<div>I'm Jennifer Malan, a student at Brigham Young University-Idaho learning about Web Development.</div>
+<div>I'm Jennifer Malan, a student at Brigham Young University-Idaho learning about Web Development.</div> &nbsp;
 
 About Me:
 <div>I'm currently learning about full-stack development and software testing. 
