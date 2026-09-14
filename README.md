@@ -7,7 +7,7 @@ About Me:
 <div>I'm currently learning about full-stack development and software testing. 
 My goals are to land a job as an intern or junior web developer. In addition to certificates in Web & Computer Programming and Web Development, I also have a certificate in Graphic Design Fundamentals. 
 I am currently working on a certificate in Software Development and a Bachelor's Degree in Software Development.
-</div>
+</div>&nbsp;
 
 Technologies and Tools:
 <div>
