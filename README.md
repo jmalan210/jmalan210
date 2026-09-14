@@ -1,16 +1,23 @@
-## Hi there 👋
+Jennifer Malan
 
-<!--
-**jmalan210/jmalan210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello GitHub! 
+I'm Jennifer Malan, a student at Brigham Young University-Idaho learning about Web Development.
 
-Here are some ideas to get you started:
+About Me
+I'm currently learning about full-stack development and software testing. 
+My goals are to land a job as an intern or junior web developer. In addition to certificates in Web & Computer Programming and Web Development, I also have a certificate in Graphic Design Fundamentals. 
+I am currently working on a certificate in Software Development and a Bachelor's Degree in Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and Tools:
+HTML
+JavaScript
+TypeScript
+CSS/Tailwind
+Python
+C#
+Adobe Photoshop, Illustrator, InDesign
+
+Let's connect! 
+https://www.linkedin.com/in/jennifer-malan-766361298/
+
+Happy Coding!
