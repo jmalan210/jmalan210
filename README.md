@@ -25,9 +25,9 @@ Technologies and Tools:
 
 See some of my work here:
 
-https://wdd430-team-project-kappa.vercel.app/ &nbsp;
-https://jmalan210.github.io/wdd330/search.html &nbsp;
-https://jmalan210.github.io/wdd231/final/index.html &nbsp;
+<div>https://wdd430-team-project-kappa.vercel.app/ </div>
+<div>https://jmalan210.github.io/wdd330/search.html </div>
+<div>https://jmalan210.github.io/wdd231/final/index.html </div>
 
 
 
