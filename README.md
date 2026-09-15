@@ -23,6 +23,12 @@ Technologies and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40" />
 </div>&nbsp;
 
+See some of my work here:
+https://wdd430-team-project-kappa.vercel.app/
+https://jmalan210.github.io/wdd330/search.html
+https://jmalan210.github.io/wdd231/final/index.html
+
+
 Let's connect! 
 https://www.linkedin.com/in/jennifer-malan-766361298/
 
