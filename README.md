@@ -27,7 +27,7 @@ See some of my work here:
 
 <div>https://wdd430-team-project-kappa.vercel.app/ </div>
 <div>https://jmalan210.github.io/wdd330/search.html </div>
-<div>https://jmalan210.github.io/wdd231/final/index.html </div>
+<div>https://jmalan210.github.io/wdd231/final/index.html </div>&nbsp;
 
 
 
