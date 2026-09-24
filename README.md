@@ -29,6 +29,9 @@ See some of my work here:
 <div>https://jmalan210.github.io/wdd330/search.html </div>
 <div>https://jmalan210.github.io/wdd231/final/index.html </div>&nbsp;
 
+<div>Current hobby project (in process):</div>
+<div>https://next-practice-git-main-jmalan210s-projects.vercel.app/</div>
+
 
 
 
