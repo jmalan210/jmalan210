@@ -35,7 +35,7 @@ See some of my work here:
 
 
 
-Let's connect! 
+<div>Let's connect! </div>
 https://www.linkedin.com/in/jennifer-malan-766361298/
 
 Happy Coding!
